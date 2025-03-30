@@ -8,7 +8,7 @@ Hi, I’m Asrinne! I’m a passionate developer with a knack for creating effici
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_balloon: Ask me about **JavaScript**, **CSS**, and **HTML**.
 - :mailbox: How to reach me: [asrinne.nazari89@gmail.com](asrinne.nazari89@gmail.com)
-- :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
+- :zap: Fun fact: ?
 
 ## :mailbox: Connect with Me
 
