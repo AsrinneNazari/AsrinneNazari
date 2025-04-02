@@ -18,7 +18,7 @@ Back-end: Node.js 🖥️
 
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) or check out my [personal website](https://asrinnenazari.netlify.app)
 
-Github account during my internship at Neovici AB :octocat::
+Github account during my internship at Neovici AB :octocat:
 https://github.com/AsrinneN
 
 ## :hammer_and_wrench: Tools I Use
