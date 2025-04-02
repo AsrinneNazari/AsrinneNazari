@@ -1,18 +1,21 @@
 <h1>👋✨HI!!</h1>
 
 ## About Me :smile:
+Hey, I'm Asrinne! A frontend developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
 
-Hi, I’m Asrinne! I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
+🌱 When I’m not coding, I’m growing stuff—both in my skillset and in my little garden. Also on a mission to perfect anti-inflammatory cooking (chia pudding, anyone?).
 
-- :seedling: I’m currently exploring **Machine Learning** and **Data Visualization**.
-- :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- :speech_balloon: Ask me about **JavaScript**, **CSS**, and **HTML**.
-- :mailbox: How to reach me: [asrinne.nazari89@gmail.com](asrinne.nazari89@gmail.com)
-- :zap: Fun fact: ?
+🚀 Currently: Having my internship at Neovici, building cool projects and making peace with Git merges.
+
+## Skills 💫
+Programming Languages: TypeScript, JavaScript ✌️
+Front-end: React, Vue, HTML, CSS, SCSS🎨
+Back-end: Node.js 🖥️
 
 ## :mailbox: Connect with Me
 
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) or check out my [personal website](https://asrinnenazari.netlify.app)
+How to reach me: [asrinne.nazari89@gmail.com](asrinne.nazari89@gmail.com)
 
 Github account during my internship at Neovici AB:
 https://github.com/AsrinneN
