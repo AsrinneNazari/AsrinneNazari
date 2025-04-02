@@ -1,4 +1,4 @@
-<h1>👋✨HI!!</h1>
+<h1>👋HI!! :octocat:</h1>
 
 ## About Me :smile:
 Hey, I'm Asrinne! A frontend developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
