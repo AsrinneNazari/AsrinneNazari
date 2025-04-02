@@ -9,7 +9,9 @@ Hey, I'm Asrinne! A frontend developer who loves building sleek websites and lea
 
 ## Skills 💫
 Programming Languages: TypeScript, JavaScript ✌️
+
 Front-end: React, Vue, HTML, CSS, SCSS🎨
+
 Back-end: Node.js 🖥️
 
 ## :mailbox: Connect with Me
