@@ -1,4 +1,4 @@
-<h1>👋HI!! :octocat:</h1>
+<h1>👋HI!!</h1>
 
 ## About Me :smile:
 Hey, I'm Asrinne! A frontend developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
@@ -18,7 +18,7 @@ Back-end: Node.js 🖥️
 
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) or check out my [personal website](https://asrinnenazari.netlify.app)
 
-Github account during my internship at Neovici AB:
+Github account during my internship at Neovici AB :octocat::
 https://github.com/AsrinneN
 
 ## :hammer_and_wrench: Tools I Use
