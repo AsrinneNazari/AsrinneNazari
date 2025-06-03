@@ -16,7 +16,7 @@ Back-end: Node.js 🖥️
 
 ## :mailbox: Connect with Me
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) or check out my [personal website](https://asrinnenazari.netlify.app)
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) 
 
 Github account during my internship at Neovici AB :octocat:
 https://github.com/AsrinneN
