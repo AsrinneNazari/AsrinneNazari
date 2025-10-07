@@ -5,7 +5,7 @@ Hey, I'm Asrinne! A front-end developer who loves building sleek websites and le
 
 🌱 When I’m not coding, I’m growing stuff—both in my skillset and in my little garden. Also on a mission to perfect anti-inflammatory cooking (chia pudding, anyone?).
 
-🚀 Currently: Searching for my dream job! 
+🚀 Currently: Learning Next.js and searching for my dream job! 
 
 ## Skills 💫
 Programming Languages: TypeScript, JavaScript ✌️
