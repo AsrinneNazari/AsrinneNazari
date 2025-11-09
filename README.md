@@ -1,6 +1,4 @@
 <h1>👋HI!!</h1>
-
-## About Me :smile:
 Hey, I'm Asrinne! A front-end developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
 
 🌱 When I’m not coding, I’m growing stuff—both in my skillset and in my little garden. Also on a mission to perfect anti-inflammatory cooking (chia pudding, anyone?).
