@@ -1,7 +1,5 @@
 <h1>👋HI!!</h1>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Frontend+Developer;Spring+Boot%20%7C%20React%20%7C%20MySQL%20%7C%20.NET;Open+Source+Contributor;Always+Learning+New+Things&font=Fira+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true&pause=1000&size=22" />
-</p>
 Hey, I'm Asrinne! A front-end developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
 
 🌱 When I’m not coding, I’m growing stuff—both in my skillset and in my little garden. Also on a mission to perfect anti-inflammatory cooking (chia pudding, anyone?).
