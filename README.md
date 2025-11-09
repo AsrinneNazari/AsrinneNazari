@@ -23,6 +23,6 @@ https://github.com/AsrinneN
 
 ## :hammer_and_wrench: Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ts,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ts,js,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrinneNazari&show_icons=true&theme=material-palenight&card_width=465)](https://github.com/AsrinneNazari/github-readme-stats)
