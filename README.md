@@ -17,9 +17,6 @@ Back-end: Node.js 🖥️
 
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) 
 
-Github account during my internship at Neovici AB :octocat:
-https://github.com/AsrinneN
-
 ## :hammer_and_wrench: Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,ts,js,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
