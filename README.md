@@ -1,5 +1,5 @@
 <h1>👋HI!!</h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Frontend+Developer;Always+Learning+New+Things&font=Fira+Code&center=true&width=800&height=45&color=E0B0FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things&font=Fira+Code&center=true&width=800&height=45&color=E0B0FF&vCenter=true&pause=1000&size=22" />
 Hey, I'm Asrinne! A front-end developer who loves building sleek websites and learning new tech. Fluent in React, debugging, and occasionally breaking things (only to fix them again 😆).
 
 🌱 When I’m not coding, I’m growing stuff—both in my skillset and in my little garden. Also on a mission to perfect anti-inflammatory cooking (chia pudding, anyone?).
