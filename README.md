@@ -11,7 +11,7 @@ Programming Languages: TypeScript, JavaScript ✌️
 
 Front-end: React, Vue, Next.js, HTML, CSS, SCSS🎨
 
-Back-end: Node.js 🖥️
+Back-end: Node.js, Strapi, Supabase 🖥️
 
 ## :mailbox: Connect with Me
 
