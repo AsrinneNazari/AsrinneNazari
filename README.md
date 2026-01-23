@@ -18,3 +18,5 @@ Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari)
 ## :hammer_and_wrench: Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,ts,js,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#d9b0ff&height=120&section=footer"/>
