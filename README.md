@@ -11,10 +11,6 @@ Front-end: React, Vue, Next.js, HTML, CSS, SCSS🎨
 
 Back-end: Node.js, Strapi, Supabase 🖥️
 
-## :mailbox: Connect with Me
-
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/asrinne-nazari) 
-
 ## :hammer_and_wrench: Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,ts,js,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
