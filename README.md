@@ -4,5 +4,6 @@ Front-end developer building things with React ⚛️
 Focused on component-based UI, clean code, and working with APIs.
 Currently exploring Strapi and headless CMS 🌱
 
+Check out my [personal website](https://asrinnenazari.netlify.app/) ✨
 ## :hammer_and_wrench: Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=vscode,ts,js,html,scss,react,vue,vite,tailwind,next)](https://skillicons.dev)
